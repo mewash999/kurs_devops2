@@ -1,1 +1,1 @@
-# kurs_devops2
+# devops_flask_app
